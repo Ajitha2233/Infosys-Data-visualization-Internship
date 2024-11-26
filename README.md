@@ -1,14 +1,22 @@
 # Infosys-Data-visualization-Internship
+
 This repository highlights the work completed during the Infosys Data Visualization Internship, focusing on creating impactful dashboards and extracting insights using Power BI.
+
 🚀 Power BI Project Portfolio
 Welcome to my Data Visualization Portfolio! This collection of projects showcases my ability to transform raw data into meaningful insights using Power BI. From healthcare analytics to financial performance and student success, explore the various ways I’ve used data to drive smarter decision-making.
 
+
 🔍 Table of Contents
 Students Performance Analysis - Milestone 0
+
 HR Analytics - Milestone 1
+
 Global Superstore Analysis - Milestone 2
+
 Financial Analysis - Milestone 3
+
 Healthcare Analytics - Milestone 4
+
 🧑‍🎓 Students Performance Analysis - Milestone 0
 💡 Objective
 Unlock insights into academic performance to enhance student success, focusing on factors like study habits, attendance, and overall grades.
