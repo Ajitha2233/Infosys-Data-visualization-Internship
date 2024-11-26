@@ -97,34 +97,32 @@ Enhance healthcare decision-making by analyzing key operational and financial da
 
 ## 🚀 How to Explore the Projects
 
-1. **Clone the repository**:  
-   Use the command `git clone <repository_url>` to download the repository.
-   
-2. **Navigate through the folders**:  
+1. **Navigate through the folders**:  
    Each project has its own folder containing Power BI files (.pbix), reports, and other useful documentation.
    
-3. **Open Power BI files**:  
+2. **Open Power BI files**:  
    Explore interactive dashboards, reports, and data insights directly in Power BI.
 
 ---
 
 ## 📈 Internship Highlights
 
-- **Duration**: 2 months
-- **Role**: Data Visualization Intern
-- **Focus**: Harnessed the power of Power BI to analyze complex datasets and create compelling visual narratives for business decision-makers.
+- **Duration**: 2 months  
+- **Role**: Data Visualization Intern  
+- **Objective**: Leveraged Power BI to uncover insights from complex data sets and build dynamic, insightful visualizations to aid strategic business decisions.
 
 ---
 
-## 📩 Get in Touch
+## 📩 Let’s Connect
 
-I’d love to collaborate or answer any questions you may have! Feel free to reach out:
+I’m always open to collaboration or any questions you might have! Feel free to reach out:
 
-**Email**: [ajithaaji2233@gmail.com](mailto:ajithaaji2233@gmail.com)  
+**Email**: [ajithajapamani@gmail.com](mailto:ajithajapamani@gmail.com)  
+
 
 
 ---
 
-Thank you for visiting my repository! 🚀
+Thanks for exploring my repository! 🚀
 
 </div>
